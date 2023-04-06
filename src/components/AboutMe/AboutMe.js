@@ -15,7 +15,7 @@ const AboutMe = () => {
       </div>
       <div>
         <textarea
-          className="w-full p-3 rounded-lg text-text text-sm focus:outline-none"
+          className="w-full p-3 rounded-lg text-text text-sm outline-none"
           placeholder="Add something about you."
           style={{ resize: "none" }}
           name=""
