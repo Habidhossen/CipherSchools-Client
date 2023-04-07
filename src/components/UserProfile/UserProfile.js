@@ -150,11 +150,11 @@ const UserProfile = () => {
               <div className="flex justify-end gap-3 mt-6">
                 <button
                   onClick={() => setState(false)}
-                  className="bg-slate-700 text-white rounded-md text-sm h-7 w-20 hover:bg-slate-600 duration-150"
+                  className="bg-slate-700 text-white rounded-md text-sm h-9 w-24 hover:bg-slate-600 duration-150"
                 >
                   Cancel
                 </button>
-                <button className="bg-primary text-white rounded-md text-sm h-7 w-20 hover:bg-[#F3AA61] duration-150">
+                <button className="bg-primary text-white rounded-md text-sm h-9 w-24 hover:bg-[#F3AA61] duration-150">
                   Save
                 </button>
               </div>
