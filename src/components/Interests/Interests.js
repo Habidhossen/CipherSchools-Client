@@ -20,7 +20,7 @@ const Interests = () => {
         </div>
       </div>
       <div>
-        <div className="bg-white text-primary p-3 rounded-md text-sm text-bold w-44 text-center">
+        <div className="bg-white text-primary p-3 rounded-md text-sm text-bold w-44 text-center shadow-md">
           Web Development
         </div>
       </div>

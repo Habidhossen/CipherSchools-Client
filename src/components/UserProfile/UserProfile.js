@@ -8,7 +8,7 @@ const UserProfile = () => {
 
   return (
     <section
-      className="flex items-center justify-between bg-cover bg-center px-10 py-3"
+      className="flex items-center flex-col md:flex-row lg:flex-row justify-between bg-cover bg-center px-10 py-3"
       style={{
         background: `linear-gradient(to right, white, transparent),linear-gradient(to left, white, transparent), url(${profileBg})`,
       }}
