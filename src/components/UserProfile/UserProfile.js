@@ -3,6 +3,7 @@ import { MdEdit } from "react-icons/md";
 import profileBg from "../../assets/images/profile_bg.png";
 
 const UserProfile = () => {
+  // handle state for modal
   const [state, setState] = useState(false);
 
   return (
