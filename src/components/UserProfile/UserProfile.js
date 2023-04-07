@@ -14,7 +14,7 @@ const UserProfile = () => {
         <div className="relative">
           <img
             className="rounded-full w-16 h-16"
-            src="https://lh3.googleusercontent.com/a/AGNmyxYkM0Pn5Ta3pRtW2adOBW-rELMto6E8bHTidDulUg=s96-c"
+            src="https://med.gov.bz/wp-content/uploads/2020/08/dummy-profile-pic.jpg"
             alt=""
           />
           <div className="absolute -bottom-2 left-5">
