@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CipherSchools-Client/static/css/main.298c5ff4.css",
+    "main.js": "/CipherSchools-Client/static/js/main.d2aee35e.js",
+    "static/js/787.5cf656e7.chunk.js": "/CipherSchools-Client/static/js/787.5cf656e7.chunk.js",
+    "static/media/profile_bg.png": "/CipherSchools-Client/static/media/profile_bg.e525f2d51356332792cb.png",
+    "index.html": "/CipherSchools-Client/index.html",
+    "main.298c5ff4.css.map": "/CipherSchools-Client/static/css/main.298c5ff4.css.map",
+    "main.d2aee35e.js.map": "/CipherSchools-Client/static/js/main.d2aee35e.js.map",
+    "787.5cf656e7.chunk.js.map": "/CipherSchools-Client/static/js/787.5cf656e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298c5ff4.css",
+    "static/js/main.d2aee35e.js"
+  ]
+}
