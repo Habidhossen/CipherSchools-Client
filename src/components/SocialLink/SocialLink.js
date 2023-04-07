@@ -26,7 +26,7 @@ const SocialLink = () => {
       <div className="grid grid-cols-4 gap-x-5">
         <div>
           <label
-            for="email"
+            for=""
             className="block py-3 text-text text-base font-semibold"
           >
             Linkedin
