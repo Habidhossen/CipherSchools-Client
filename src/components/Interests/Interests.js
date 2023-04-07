@@ -5,8 +5,8 @@ const Interests = () => {
   const [state, setState] = useState(false);
 
   return (
-    <section className="px-10">
-      <div className="flex items-center justify-between mb-10 mt-6">
+    <section className="px-10 mb-10">
+      <div className="flex items-center justify-between mb-3 mt-6">
         <div>
           <h1 className="text-text text-base font-bold uppercase">Interests</h1>
         </div>
@@ -17,6 +17,11 @@ const Interests = () => {
           >
             Edit
           </button>
+        </div>
+      </div>
+      <div>
+        <div className="bg-white text-primary p-3 rounded-md text-sm text-bold w-44 text-center">
+          Web Development
         </div>
       </div>
       {/* Modal */}

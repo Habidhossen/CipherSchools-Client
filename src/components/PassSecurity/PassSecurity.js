@@ -35,8 +35,9 @@ const PassSecurity = () => {
             <input
               type="password"
               placeholder="*************"
+              disabled
               id=""
-              className="w-full py-1 ml-2 outline-none text-sm"
+              className="w-full py-1 ml-2 outline-none text-sm bg-white"
             />
           </div>
         </div>
