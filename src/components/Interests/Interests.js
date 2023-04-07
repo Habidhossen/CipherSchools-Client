@@ -3,7 +3,7 @@ import React from "react";
 const Interests = () => {
   return (
     <section className="px-10">
-      <div className="flex items-center justify-between mb-4 mt-6">
+      <div className="flex items-center justify-between mb-10 mt-6">
         <div>
           <h1 className="text-text text-base font-bold uppercase">Interests</h1>
         </div>
